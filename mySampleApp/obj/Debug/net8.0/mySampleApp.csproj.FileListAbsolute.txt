@@ -1,0 +1,14 @@
+C:\Users\speed\RiderProjects\mySampleApp\bin\Debug\net8.0\mySampleApp.exe
+C:\Users\speed\RiderProjects\mySampleApp\bin\Debug\net8.0\mySampleApp.deps.json
+C:\Users\speed\RiderProjects\mySampleApp\bin\Debug\net8.0\mySampleApp.runtimeconfig.json
+C:\Users\speed\RiderProjects\mySampleApp\bin\Debug\net8.0\mySampleApp.dll
+C:\Users\speed\RiderProjects\mySampleApp\bin\Debug\net8.0\mySampleApp.pdb
+C:\Users\speed\RiderProjects\mySampleApp\obj\Debug\net8.0\mySampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\speed\RiderProjects\mySampleApp\obj\Debug\net8.0\mySampleApp.AssemblyInfoInputs.cache
+C:\Users\speed\RiderProjects\mySampleApp\obj\Debug\net8.0\mySampleApp.AssemblyInfo.cs
+C:\Users\speed\RiderProjects\mySampleApp\obj\Debug\net8.0\mySampleApp.csproj.CoreCompileInputs.cache
+C:\Users\speed\RiderProjects\mySampleApp\obj\Debug\net8.0\mySampleApp.dll
+C:\Users\speed\RiderProjects\mySampleApp\obj\Debug\net8.0\refint\mySampleApp.dll
+C:\Users\speed\RiderProjects\mySampleApp\obj\Debug\net8.0\mySampleApp.pdb
+C:\Users\speed\RiderProjects\mySampleApp\obj\Debug\net8.0\mySampleApp.genruntimeconfig.cache
+C:\Users\speed\RiderProjects\mySampleApp\obj\Debug\net8.0\ref\mySampleApp.dll
